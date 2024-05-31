@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="소스.c" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\..\Desktop\따오기\c언어\Project_OS\Project_OS\input.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
